@@ -19,3 +19,6 @@ and technical skills affect salary distribution.
 - Senior-level data roles show significantly higher salary ranges
 - Certain technical skills strongly correlate with higher pay
 - Location plays a major role in salary variation
+## 📄 Jobs Data Report
+
+[Download Jobs Data IT](Jobs%20Data%20IT.pdf)
